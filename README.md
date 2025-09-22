@@ -1,4 +1,4 @@
-# 🔬 Generative AI Applications – Project Portfolio
+# 🔬 Generative AI Applications – Project Portfolio 📍
 
 Welcome to my personal portfolio showcasing hands-on projects in the Generative AI space. These projects explore the full GenAI lifecycle including coding LLMs from scratch using PyTorch, synthetic data generation, fine-tuning, evaluation, and cloud deployment.
 
@@ -6,7 +6,7 @@ Each repository is backed by practical use cases, best practices, and open-sourc
 
 ---
 
-## 📍 Finetuning Toolkit
+## 🪢 Finetuning Toolkit
 
 A comprehensive guide and codebase for **fine-tuning Large Language Models (LLMs)** using leading open-source frameworks. This project explores parameter-efficient fine-tuning (PEFT), QLoRA, and model adapters to customize LLMs for downstream tasks.
 
