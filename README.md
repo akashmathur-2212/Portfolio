@@ -18,7 +18,7 @@ A comprehensive guide and codebase for **fine-tuning Large Language Models (LLMs
 
 ## 🧪 Evaluation Toolkit
 
-This project offers a robust evaluation stack for LLM-based applications, using both retrieval-based metrics and **LLM-as-a-Judge** techniques for scoring output quality across relevance, coherence, and faithfulness.
+This toolkit that offers a robust evaluation stack for LLM-based applications, using both retrieval-based metrics and **LLM-as-a-Judge** techniques for scoring output quality across relevance, coherence, and faithfulness.
 
 | Description | Link |
 |------------|------|
@@ -38,7 +38,7 @@ This toolkit helps generate **high-quality synthetic datasets** (e.g., Q&A pairs
 
 ## 🛠️ Coding LLMs from Scratch
 
-Explore the internals of transformer models by building LLM components **from scratch in PyTorch**. This educational project includes self-attention, positional encoding, and training logic.
+Explore the internals of transformer model by building LLM components **from scratch in PyTorch**. This educational project includes self-attention, positional encoding, and training logic.
 
 | Description | Link |
 |------------|------|
@@ -58,7 +58,7 @@ This project showcases **Retrieval-Augmented Generation (RAG)** with structured 
 
 ## ☁️ Model Serving and Deployment
 
-Production-grade workflows for **LLM model serving, orchestration, and cloud deployment** using serverless architecture (e.g., AWS Lambda, API Gateway). Includes CI/CD and scalable endpoint setup.
+Production-grade workflows for **LLM model serving, orchestration, and cloud deployment** using AWS serverless architecture, includes CI/CD and scalable endpoint setup.
 
 | Description | Link |
 |------------|------|
