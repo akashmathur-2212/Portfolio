@@ -6,6 +6,20 @@ Each repository is backed by practical use cases, best practices, and open-sourc
 
 ---
 
+## 🌐 Full-Stack Applications
+
+A collection of projects showcasing **end-to-end AI-powered systems** with modern frontend + backend integrations.
+
+### 🧠 AzureOpenAI Fullstack LlamaIndex-powered Agent
+
+An **agentic RAG-based conversational system** with short- & long-term memory, built using **React + FastAPI + LlamaIndex**.
+
+| Description                                                                     | Link                                                                               |
+| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Full-stack Conversational AI Agent | [View Repository](https://github.com/akashmathur-2212/azureopenai-fullstack-agentic-app) |
+
+---
+
 ## 🪢 Finetuning Toolkit
 
 A comprehensive guide and codebase for **fine-tuning Large Language Models (LLMs)** using leading open-source frameworks. This project explores parameter-efficient fine-tuning (PEFT), QLoRA, and model adapters to customize LLMs for downstream tasks.
