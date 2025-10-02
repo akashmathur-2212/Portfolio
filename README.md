@@ -10,7 +10,7 @@ Each repository is backed by practical use cases, best practices, and open-sourc
 
 A collection of projects showcasing **end-to-end AI-powered systems** with modern frontend + backend integrations.
 
-### 🧠 AzureOpenAI Fullstack LlamaIndex-powered Agent
+### 1. 🧠 AzureOpenAI Fullstack LlamaIndex-powered Agent
 
 An **agentic RAG-based conversational system** with short- & long-term memory, built using **React + FastAPI + LlamaIndex**.
 
